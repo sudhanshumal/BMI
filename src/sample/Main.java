@@ -1,5 +1,5 @@
 package sample;
-
+// A sample program to show the functioning of how the BMI device works
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
